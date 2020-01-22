@@ -26,7 +26,6 @@ echo "<script type='text/javascript'> document.location = 'dashboard.php'; </scr
 ?>
 
 <!DOCTYPE HTML>
-
 <html>
 <head>
 <title> ETMS  manager  Sign in</title>
